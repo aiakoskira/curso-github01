@@ -1,2 +1,2 @@
-# curso-github01
-Esta es una prueba de repositorio
+# Curso de Github
+Esta es una prueba de repositorio, para el aprendisaje y el desarrollo profecional.
